@@ -13,7 +13,7 @@
   🔗 [karimakl.com](https://karimakl.com)
 
 - 🛍️ **Shary** – Real Estate site using  **Next.js** **React**, **Tailwind**, and **JavaScript**  
-  🔗 [Shary.eg](shary.eg)
+  🔗 [Shary.eg](https://shary.eg)
 
 - 🎨 **Alwatania Candle** – UI Design using **WordPress** , **Woocommerce**, and **CSS**  
   🔗 [https://alwataniacandle.com/](https://alwataniacandle.com/)
