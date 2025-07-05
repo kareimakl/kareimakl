@@ -12,10 +12,10 @@
 - 🧑‍💼 **Portfolio Website** – Built using **Vite** & **Next.js**  
   🔗 [karimakl.com](https://karimakl.com)
 
-- 🛍️ **Shary** – Real Estate site using **React**, **CSS**, and **JavaScript**  
+- 🛍️ **Shary** – Real Estate site using  **Next.js** **React**, **Tailwind**, and **JavaScript**  
   🔗 [Shary.eg](shary.eg)
 
-- 🎨 **Tailwind CSS Project** – UI Design using **TailwindCSS**, **JavaScript**, and **CSS**  
+- 🎨 **Alwatania Candle** – UI Design using **WordPress** , **Woocommerce**, and **CSS**  
   🔗 [https://alwataniacandle.com/](https://alwataniacandle.com/)
 
 ---
@@ -23,7 +23,7 @@
 ### 💼 Skills
 
 **Front-End:**  
-ReactJS, Redux, JavaScript, TailwindCSS, Bootstrap, HTML, CSS, SASS, TypeScript
+ReactJS, Redux, JavaScript, TailwindCSS, Bootstrap, HTML, CSS, SASS, TypeScript,WordPress
 
 **Back-End:**  
 Node.js, Express.js
