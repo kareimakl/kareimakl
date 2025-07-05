@@ -2,18 +2,18 @@
 <h3 align="center">I am a passionate Full Stack Web Developer with a love for building diverse and innovative products. My recent projects have involved developing web applications using ReactJS on the front end and Node.js on the back end. I thrive on learning new technologies and applying them to create cool products that bring new ideas to life in various fields. Skills: Front-End Technologies: ReactJS, Redux, JavaScript, Tailwind, Bootstrap Back-End Technologies: Node.js, Express.js Databases: SQL APIs: RESTful API, GraphQL Programming Concepts: Object-Oriented Programming (OOP), Data Structures, Algorithms</h3>
 
 
-- My Portfolio Project Using Vite & Next [Portfolio Project](https://karimakl.netlify.app/)
+- My Portfolio Project Using Vite & Next [Portfolio Project](https://karimakl.com/)
 
 - E-Commerce Using React & Css & Js AWU Shopping [AWU Shopping](https://ecommerce-akl.netlify.app/)
 
-- TailwindCss Using Tailwind , Js & Css [TailwindCss Project](https://karim-akl.github.io/TailWind/)
+- TailwindCss Using Tailwind , Js & Css [TailwindCss Project](https://kareimakl.github.io/TailWind/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/karim-akl-front-end/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karim-akl-front-end/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/people/karim-akl/100041250668655/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/people/karim-akl/100041250668655/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/karim_akl0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/karim_akl0/" height="30" width="40" /></a>
-<a href="/https://karimakl.netlify.app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://karimakl.netlify.app" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/kareimakl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karim-akl-front-end/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/kareimakl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/people/karim-akl/100041250668655/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/kareimakl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/kareimakl/" height="30" width="40" /></a>
+<a href="/https://karimakl.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://karimakl.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
