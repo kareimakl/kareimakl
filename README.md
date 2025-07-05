@@ -12,11 +12,11 @@
 - 🧑‍💼 **Portfolio Website** – Built using **Vite** & **Next.js**  
   🔗 [karimakl.com](https://karimakl.com)
 
-- 🛍️ **AWU Shopping** – E-Commerce site using **React**, **CSS**, and **JavaScript**  
-  🔗 [ecommerce-akl.netlify.app](https://ecommerce-akl.netlify.app/)
+- 🛍️ **Shary** – Real Estate site using **React**, **CSS**, and **JavaScript**  
+  🔗 [Shary.eg](shary.eg)
 
 - 🎨 **Tailwind CSS Project** – UI Design using **TailwindCSS**, **JavaScript**, and **CSS**  
-  🔗 [kareimakl.github.io/TailWind](https://kareimakl.github.io/TailWind/)
+  🔗 [https://alwataniacandle.com/](https://alwataniacandle.com/)
 
 ---
 
@@ -81,13 +81,3 @@ RESTful APIs, GraphQL, Firebase, Postman, OOP, Data Structures, Algorithms, Figm
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karim-akl&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karim-akl&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karim-akl&" alt="GitHub Streak" /></p>
